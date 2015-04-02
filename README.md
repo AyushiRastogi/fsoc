@@ -31,6 +31,8 @@ author_id: ID of the contributor of the code
 committer_id: ID of the committer of the code
 created_at: Timestamp of commit
 
+_________________________________________________________________________________
+
 File commithistoryofpf_2008 show developer community participation in the primary fork
 mf_id: Repository ID of the master fork
 pf_id: Repository ID of the primary fork
